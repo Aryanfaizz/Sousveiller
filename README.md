@@ -1,7 +1,7 @@
 # Sousveiller - Mobile App Prototype
 
 ## Overview
-Sousveiller is a surveillance app prototype designed by Aryan Faizz to provide an intuitive and user-friendly interface for monitoring security feeds. Built using **Figma**, this prototype features a dynamic mobile app design with interactive motions and a custom logo, showcasing a modern and accessible approach to surveillance management.
+Sousveiller is a surveillance app prototype designed by Apollo team to provide an intuitive and user-friendly interface for monitoring security feeds. Built using **Figma**, this prototype features a dynamic mobile app design with interactive motions and a custom logo, showcasing a modern and accessible approach to surveillance management.
 
 **[View the Prototype on Figma](https://www.figma.com/proto/HRt88l42pCp91iQ7PUucHm/Sousveiller?node-id=40-379&p=f&t=g5bsy3lpRG93tfY2-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=6%3A967&show-proto-sidebar=1)**
 
@@ -34,7 +34,7 @@ To explore the Sousveiller prototype:
 - **Figma**: For designing, prototyping, and creating interactive elements.
 
 ## Contributing
-This was a team project. For feedback or suggestions:
+This is a group project. For feedback or suggestions:
 - Contact Aryan via [GitHub](https://github.com/Aryanfaizz) or other preferred channels.
 - Future iterations may include additional features or refined designs based on feedback.
 
